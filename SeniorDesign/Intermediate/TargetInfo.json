@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SeniorDesign",
+			"Path": "C:\\Users\\yeffi\\Documents\\Unreal Projects\\SeniorDesign\\Source\\SeniorDesign.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SeniorDesignEditor",
+			"Path": "C:\\Users\\yeffi\\Documents\\Unreal Projects\\SeniorDesign\\Source\\SeniorDesignEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

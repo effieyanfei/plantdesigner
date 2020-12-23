@@ -1,0 +1,1393 @@
+﻿Log file open, 10/10/20 02:16:04
+LogInit: Display: Running engine for game: SeniorDesign
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192000
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PlantDesigner
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:7890'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.09-18.16.05:442][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.09-18.16.05:442][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.09-18.16.05:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:442][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.09-18.16.05:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:442][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.09-18.16.05:443][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.09-18.16.05:444][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.09-18.16.05:444][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.09-18.16.05:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:444][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.09-18.16.05:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.09-18.16.05:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.09-18.16.05:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.09-18.16.05:468][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.09-18.16.05:468][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.09-18.16.05:468][  0]LogHAL: Display: Platform has ~ 16 GB [17065697280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.09-18.16.05:468][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.09-18.16.05:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.09-18.16.05:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.09-18.16.05:470][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:470][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Scalability.ini]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.09-18.16.05:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.09-18.16.05:472][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Config/Windows/Engine.ini]
+[2020.10.09-18.16.05:472][  0]LogInit: Computer: LAPTOP-N4G75RRG
+[2020.10.09-18.16.05:472][  0]LogInit: User: yeffi
+[2020.10.09-18.16.05:472][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.09-18.16.05:472][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.09-18.16.05:473][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.09-18.16.05:473][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.09-18.16.05:473][  0]LogMemory: Process Physical Memory: 118.37 MB used, 118.37 MB peak
+[2020.10.09-18.16.05:473][  0]LogMemory: Process Virtual Memory: 102.33 MB used, 102.33 MB peak
+[2020.10.09-18.16.05:473][  0]LogMemory: Physical Memory: 7316.43 MB used,  8958.69 MB free, 16275.12 MB total
+[2020.10.09-18.16.05:473][  0]LogMemory: Virtual Memory: 5186.56 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.10.09-18.16.05:486][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.09-18.16.05:521][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.09-18.16.05:522][  0]LogInit: Using OS detected language (en-US).
+[2020.10.09-18.16.05:522][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.09-18.16.05:525][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.09-18.16.05:703][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.09-18.16.05:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.09-18.16.05:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.09-18.16.05:903][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.09-18.16.05:903][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.09-18.16.05:903][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.09-18.16.05:903][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.09-18.16.05:957][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.10.09-18.16.05:957][  0]LogD3D11RHI:       6061/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.09-18.16.06:004][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.10.09-18.16.06:004][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.09-18.16.06:006][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.09-18.16.06:006][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.09-18.16.06:006][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.09-18.16.06:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.09-18.16.06:016][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.09-18.16.06:016][  0]LogWindows: EnumDisplayDevices:
+[2020.10.09-18.16.06:016][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.09-18.16.06:016][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.09-18.16.06:016][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.09-18.16.06:017][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.10.09-18.16.06:017][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.10.09-18.16.06:017][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.10.09-18.16.06:017][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2020.10.09-18.16.06:017][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2020.10.09-18.16.06:017][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2020.10.09-18.16.06:053][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.09-18.16.06:054][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.09-18.16.06:054][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.09-18.16.06:054][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.09-18.16.06:133][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.09-18.16.06:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.09-18.16.06:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.09-18.16.06:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.09-18.16.06:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.09-18.16.06:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.09-18.16.06:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.09-18.16.06:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.09-18.16.06:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.09-18.16.06:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.09-18.16.06:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.09-18.16.06:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.09-18.16.06:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.09-18.16.06:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.09-18.16.06:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.09-18.16.06:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.09-18.16.06:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.09-18.16.06:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.09-18.16.06:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.09-18.16.06:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.09-18.16.06:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.09-18.16.06:683][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.09-18.16.06:742][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/yeffi/Documents/Unreal Projects/SeniorDesign/Intermediate/Shaders/WorkingDirectory/22840/).
+[2020.10.09-18.16.06:742][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yeffi/AppData/Local/Temp/UnrealShaderWorkingDir/4FB1A987443E62862D10A89C18155484/'.
+[2020.10.09-18.16.06:742][  0]LogXGEController: Cleaning working directory: C:/Users/yeffi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.09-18.16.06:743][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.09-18.16.06:743][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.09-18.16.06:743][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.09-18.16.07:547][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/yeffi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yeffi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yeffi/Documents/Unreal Projects/SeniorDesign/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yeffi/Documents/Unreal Projects/SeniorDesign/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.09-18.16.07:601][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.09-18.16.07:612][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.09-18.16.07:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.09-18.16.07:612][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.09-18.16.07:613][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yeffi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.09-18.16.07:613][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.09-18.16.07:613][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.09-18.16.07:668][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.09-18.16.07:668][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.09-18.16.07:695][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.10.09-18.16.07:955][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.09-18.16.08:075][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.09-18.16.08:075][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.09-18.16.08:075][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.09-18.16.08:075][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.09-18.16.08:075][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.09-18.16.08:104][  0]LogNetVersion: SeniorDesign 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3580629737)
+[2020.10.09-18.16.08:557][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000026540348340), frame # 0
+[2020.10.09-18.16.08:557][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026540282AC0), frame # 0
+[2020.10.09-18.16.08:559][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000265402D1E00), frame # 0
+[2020.10.09-18.16.08:628][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.062746 seconds
+[2020.10.09-18.16.08:633][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.09-18.16.08:633][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.09-18.16.08:633][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.09-18.16.08:984][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.09-18.16.08:988][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.09-18.16.09:068][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.09:069][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.09:071][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.09:074][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.09:081][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.09:317][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.09-18.16.09:336][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.09-18.16.09:336][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.09-18.16.09:386][  0]LogOcInput: OculusInput pre-init called
+[2020.10.09-18.16.09:655][  0]LogEngine: Initializing Engine...
+[2020.10.09-18.16.09:657][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.09-18.16.09:657][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.09-18.16.09:657][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.09-18.16.09:775][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.09-18.16.09:783][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.09-18.16.09:783][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026540873C00), frame # 0
+[2020.10.09-18.16.09:783][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000265408F0680), frame # 0
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.09-18.16.09:849][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.09-18.16.09:849][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.09-18.16.09:850][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.09-18.16.09:850][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.09-18.16.09:887][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.09-18.16.09:887][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.09-18.16.09:969][  0]LogAudioMixer: Display: Using Audio Device U2790B (NVIDIA High Definition Audio)
+[2020.10.09-18.16.09:971][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.09-18.16.09:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.09-18.16.09:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.09-18.16.09:974][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.09-18.16.09:975][  0]LogInit: FAudioDevice initialized.
+[2020.10.09-18.16.09:975][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.09-18.16.10:041][  0]LogDerivedDataCache: Saved boot cache 0.07s 79MB C:/Users/yeffi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.09-18.16.10:046][  0]LogInit: Texture streaming: Enabled
+[2020.10.09-18.16.10:066][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.09-18.16.10:066][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A2201147-4DA1-1662-9865-50954E45E704}
+[2020.10.09-18.16.10:066][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.09-18.16.10:067][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.09-18.16.10:131][  0]LogInit: Transaction tracking system initialized
+[2020.10.09-18.16.10:152][  0]BlueprintLog: New page: Editor Load
+[2020.10.09-18.16.10:216][  0]LocalizationService: Localization service is disabled
+[2020.10.09-18.16.10:379][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.09-18.16.10:379][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.09-18.16.10:520][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Content/' took 0.01s
+[2020.10.09-18.16.10:743][  0]SourceControl: Source control is disabled
+[2020.10.09-18.16.10:743][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.422
+[2020.10.09-18.16.10:743][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yeffi/Documents/Unreal Projects/SeniorDesign/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.09-18.16.10:744][  0]LightingResults: New page: Lighting Build
+[2020.10.09-18.16.10:744][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.09-18.16.10:744][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.09-18.16.10:744][  0]MapCheck: New page: Map Check
+[2020.10.09-18.16.10:744][  0]LightingResults: New page: Lighting Build
+[2020.10.09-18.16.10:754][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026540873C00), frame # 0
+[2020.10.09-18.16.10:754][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000265408F0680), frame # 0
+[2020.10.09-18.16.10:754][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.09-18.16.10:846][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.09-18.16.10:846][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002654F07FE00), frame # 0
+[2020.10.09-18.16.10:846][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002654F5BD580), frame # 0
+[2020.10.09-18.16.10:851][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.09-18.16.10:865][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.09-18.16.10:865][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.09-18.16.10:865][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2020.10.09-18.16.10:865][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.122
+[2020.10.09-18.16.10:867][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.547
+[2020.10.09-18.16.11:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.09-18.16.11:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.09-18.16.11:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.09-18.16.11:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.09-18.16.11:163][  0]LogCollectionManager: Loaded 0 collections in 0.001864 seconds
+[2020.10.09-18.16.11:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Saved/Collections/' took 0.00s
+[2020.10.09-18.16.11:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Content/Developers/yeffi/Collections/' took 0.00s
+[2020.10.09-18.16.11:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yeffi/Documents/Unreal Projects/SeniorDesign/Content/Collections/' took 0.00s
+[2020.10.09-18.16.11:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3429 classes and 823 folders.
+[2020.10.09-18.16.11:180][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.09-18.16.11:241][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.10.09-18.16.11:248][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 2 classes and 0 folders.
+[2020.10.09-18.16.11:313][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.09-18.16.11:315][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.09-18.16.11:321][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.09-18.16.11:432][  0]LogRenderer: Reallocating scene render targets to support 876x448 Format 10 NumSamples 1 (Frame:1).
+[2020.10.09-18.16.11:527][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.09-18.16.11:527][  0]LogLoad: (Engine Initialization) Total time: 8.21 seconds
+[2020.10.09-18.16.11:528][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.09-18.16.11:584][  0]LogAssetRegistry: Asset discovery search completed in 3.8891 seconds
+[2020.10.09-18.16.11:589][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.09-18.16.11:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.09-18.16.14:552][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.14:561][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.14:568][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.14:574][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.14:581][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.14:586][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.14:593][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.14:599][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.14:605][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.14:611][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.14:617][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.14:623][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.14:630][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.14:636][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.14:642][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.14:649][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.14:656][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.14:662][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.14:668][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.14:674][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.14:681][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.14:687][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.14:694][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.14:701][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.14:707][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.14:713][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.14:720][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.14:726][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.14:732][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.14:739][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.14:746][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.14:753][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.14:760][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.14:767][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.14:774][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.14:781][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.14:788][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.14:794][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.14:802][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.14:809][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.14:816][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.14:824][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.14:831][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.14:840][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.14:846][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.14:853][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.14:861][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.14:869][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.14:877][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.14:885][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.14:891][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.14:899][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.14:906][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.14:913][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.14:921][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.14:928][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.14:935][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.14:943][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.14:951][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.14:958][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.14:967][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.14:973][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.14:980][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.14:987][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.14:994][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.15:002][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.15:010][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:016][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:023][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:031][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:038][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:046][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:053][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.15:059][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.15:066][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:072][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:080][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:086][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:093][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:099][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:105][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.15:112][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.15:119][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:126][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:133][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:139][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:148][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:155][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:161][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:169][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:175][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.15:181][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.15:187][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.15:194][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.15:202][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:209][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:216][169]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:224][169]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:232][169]LogEditor: Attempting to add actor of class 'Branch_Cube_C' to level at 240.00,10.00,30.00
+[2020.10.09-18.16.15:240][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.15:247][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.15:255][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.15:262][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.15:270][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.15:276][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.15:283][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.15:289][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.15:298][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.15:304][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.15:311][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.15:318][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.15:324][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.15:331][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.15:337][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:344][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:352][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:360][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:366][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:372][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:379][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:385][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:392][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:398][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.15:404][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:411][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:460][169]LogEditor: Attempting to add actor of class 'Branch_Cube_C' to level at 240.00,10.00,80.00
+[2020.10.09-18.16.15:468][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.15:475][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.15:482][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.15:489][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.15:497][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.15:504][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.15:511][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.15:518][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.15:525][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.15:534][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.15:542][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.15:549][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.15:556][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.15:564][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.15:572][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:579][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:587][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:594][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.15:600][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.15:607][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.15:613][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:620][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.15:626][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.15:633][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.15:640][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.15:646][169]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.16:820][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.16:826][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.16:831][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.16:836][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.16:842][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.16:847][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.16:852][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.16:859][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.16:864][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.16:870][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.16:875][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.16:880][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.16:886][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.16:891][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.16:898][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.16:903][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.16:909][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.16:915][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.16:920][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.16:925][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.16:932][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.16:939][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.16:944][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.16:950][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.16:955][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.16:961][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.16:967][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.16:972][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.16:977][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.16:982][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.16:988][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.16:993][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.16:999][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:005][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:011][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:016][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:022][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:027][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:032][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.17:038][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.17:042][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.17:049][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.17:054][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:059][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:065][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:071][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:076][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:082][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:087][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.17:093][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.17:099][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.17:104][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.17:109][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:114][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:122][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:127][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:132][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.17:137][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.17:142][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.17:147][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.17:152][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:158][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:164][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:169][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:175][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.17:180][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.17:185][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:190][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:195][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:202][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:207][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:212][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:217][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.17:222][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.17:227][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:233][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:239][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:244][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:249][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:254][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:260][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.17:266][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.17:271][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:276][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:282][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:287][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:292][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:297][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:303][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:308][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:313][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.17:318][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.17:323][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.17:329][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.17:334][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:340][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:345][221]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:351][221]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:355][221]LogEditor: Attempting to add actor of class 'Branch_Cube_C' to level at 240.00,10.00,30.00
+[2020.10.09-18.16.17:361][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.17:366][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.17:371][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.17:376][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:381][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:387][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.17:392][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:397][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:403][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:408][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:413][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.17:419][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:424][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:429][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.17:437][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:447][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:456][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:466][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:475][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:484][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:493][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:498][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:503][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:508][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.17:514][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:521][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:711][221]LogEditor: Attempting to add actor of class 'Branch_Cube_C' to level at 240.00,10.00,80.00
+[2020.10.09-18.16.17:718][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.17:723][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.17:729][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.17:734][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:740][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:746][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.17:752][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.17:757][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.17:763][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.17:769][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:774][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.17:781][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.17:787][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.17:793][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.17:801][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:807][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:814][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:820][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.17:827][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.17:834][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.17:840][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:847][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.17:853][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.17:860][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.17:866][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.17:873][221]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.25:192][478]LogEditorViewport: Clicking on Actor (LMB): Leaves_2_C (Leaves_285)
+[2020.10.09-18.16.33:924][731]Cmd: DELETE
+[2020.10.09-18.16.33:924][731]Cmd: ACTOR DELETE
+[2020.10.09-18.16.33:995][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.33:996][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.33:997][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.33:998][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.33:998][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.33:999][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:000][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:001][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:001][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:002][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:003][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:004][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:004][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:005][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:006][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:006][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:007][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:008][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:008][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:009][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:010][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:011][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:011][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:012][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:013][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:014][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:014][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:015][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:016][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:016][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:017][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:018][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:018][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:019][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:019][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:020][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:021][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:021][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:022][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:023][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:023][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:024][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:024][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:025][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:026][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:026][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:027][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:028][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:028][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:029][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:030][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:030][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:031][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:031][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:032][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:033][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:033][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:034][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:034][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:035][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:035][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:036][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:036][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:037][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:038][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:038][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:039][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:039][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:040][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:041][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:041][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:042][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:043][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:043][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:044][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:044][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:044][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:045][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:046][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:047][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:047][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:048][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:048][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:049][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:050][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:050][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:051][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:051][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:052][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:052][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:053][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:053][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:054][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:054][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:055][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:055][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:056][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:056][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:057][731]LogEditorActor: Deleted Actor: Branch_Cube_C
+[2020.10.09-18.16.34:057][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:058][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:058][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:059][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:059][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:060][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:060][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:061][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:061][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:062][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:062][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:063][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:063][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:064][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:064][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:065][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:065][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:066][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:066][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:066][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:067][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:067][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:068][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:068][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:069][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:069][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:070][731]LogEditorActor: Deleted Actor: Branch_Cube_C
+[2020.10.09-18.16.34:070][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:071][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:071][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:071][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:072][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:072][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:073][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:073][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:073][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:074][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:075][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:075][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:075][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:076][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:076][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:077][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:077][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:077][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:078][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:078][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:079][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:080][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:080][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:080][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:081][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:081][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:081][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:082][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:082][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:082][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:083][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:083][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:084][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:084][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:084][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:085][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:085][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:085][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:086][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:086][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:086][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:087][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:087][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:087][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:088][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:088][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:089][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:089][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:090][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:090][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:090][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:091][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:091][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:091][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:092][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:092][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:092][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:093][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:093][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:093][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:094][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:094][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:094][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:094][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:095][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:095][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:095][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:096][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:096][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:097][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:097][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:097][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:097][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:098][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:098][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:098][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:099][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:099][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:099][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:099][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:100][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:100][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:100][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:101][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:101][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:101][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:101][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:102][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:102][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:102][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:102][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:103][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:103][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:103][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:103][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:103][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:104][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:104][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:104][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:104][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:105][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:105][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:105][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:105][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:105][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:106][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:106][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:106][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:106][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:107][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:107][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:107][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:107][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:107][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:108][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:108][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:108][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:108][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Branch_Cylinder_C
+[2020.10.09-18.16.34:109][731]LogEditorActor: Deleted Actor: Node_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Branch_Cube_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:110][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:111][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:112][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:112][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:112][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:112][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:113][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Branch_Cube_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:114][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:115][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:116][731]LogEditorActor: Deleted Actor: Leaves_2_C
+[2020.10.09-18.16.34:141][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.09-18.16.34:145][731]LogEditorActor: Deleted 304 Actors (0.220 secs)
+[2020.10.09-18.16.37:335][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.37:342][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 243.97,19.25,178.98
+[2020.10.09-18.16.37:348][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.37:354][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 252.60,25.90,175.70
+[2020.10.09-18.16.37:360][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.37:367][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 237.15,22.16,228.42
+[2020.10.09-18.16.37:371][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.37:377][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.55,-26.43,145.48
+[2020.10.09-18.16.37:383][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.37:388][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 228.57,12.46,226.06
+[2020.10.09-18.16.37:393][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.37:399][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 250.68,74.79,165.38
+[2020.10.09-18.16.37:405][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.37:411][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 259.57,34.67,271.33
+[2020.10.09-18.16.37:416][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.37:422][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.37:428][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.37:434][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.37:440][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.37:446][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.37:451][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.37:457][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 238.21,118.90,185.34
+[2020.10.09-18.16.37:462][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.37:468][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 261.80,25.69,320.47
+[2020.10.09-18.16.37:473][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.37:478][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.37:484][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.37:490][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.37:498][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.37:503][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 212.55,105.76,174.71
+[2020.10.09-18.16.37:509][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.37:515][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 281.12,39.64,316.17
+[2020.10.09-18.16.37:521][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:526][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:531][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.37:536][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.37:541][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:548][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:553][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.37:558][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 230.86,0.58,350.67
+[2020.10.09-18.16.37:563][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.37:569][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.37:573][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:579][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:584][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.37:590][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.37:596][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:601][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:606][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.37:612][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 244.45,-6.63,354.44
+[2020.10.09-18.16.37:617][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.37:622][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 170.02,82.58,162.29
+[2020.10.09-18.16.37:628][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:633][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:640][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.37:645][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.37:650][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.37:656][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 192.59,-6.29,382.10
+[2020.10.09-18.16.37:662][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.37:667][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.37:672][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:677][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:683][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.37:688][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.37:693][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.37:698][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.37:703][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:709][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:714][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:719][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:724][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:730][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:735][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.37:740][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 145.11,-6.31,366.43
+[2020.10.09-18.16.37:746][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:751][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:756][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:762][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:767][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:772][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:778][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.37:783][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 97.63,-6.32,350.75
+[2020.10.09-18.16.37:789][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.37:794][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.37:799][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.37:804][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.37:810][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.37:815][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.37:821][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.37:826][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.37:832][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.37:837][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 149.97,84.53,387.41
+[2020.10.09-18.16.37:843][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.37:848][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.37:854][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.37:859][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.37:864][915]LogEditor: Attempting to add actor of class 'Branch_Cylinder_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.37:870][915]LogEditor: Attempting to add actor of class 'Node_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.37:875][915]LogEditor: Attempting to add actor of class 'Branch_Cube_C' to level at 240.00,10.00,30.00
+[2020.10.09-18.16.37:880][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.69,-4.56,133.72
+[2020.10.09-18.16.37:885][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 273.64,-76.25,148.43
+[2020.10.09-18.16.37:890][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 262.85,-21.02,240.33
+[2020.10.09-18.16.37:895][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:900][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:905][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 274.02,77.86,291.96
+[2020.10.09-18.16.37:910][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 287.27,-107.16,185.29
+[2020.10.09-18.16.37:915][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 266.43,-59.65,271.88
+[2020.10.09-18.16.37:920][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 282.88,135.36,200.64
+[2020.10.09-18.16.37:925][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:932][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 194.74,72.54,141.85
+[2020.10.09-18.16.37:940][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 314.25,67.10,341.63
+[2020.10.09-18.16.37:945][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 251.43,-99.39,298.25
+[2020.10.09-18.16.37:951][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 187.26,-10.80,372.34
+[2020.10.09-18.16.37:955][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:959][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:964][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:970][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 270.75,-29.85,390.06
+[2020.10.09-18.16.37:974][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 128.23,62.05,180.50
+[2020.10.09-18.16.37:980][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 220.34,-113.09,334.93
+[2020.10.09-18.16.37:985][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.37:990][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 147.32,43.16,359.45
+[2020.10.09-18.16.37:995][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 100.92,-55.44,359.49
+[2020.10.09-18.16.38:000][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 133.33,84.55,383.76
+[2020.10.09-18.16.38:005][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
+[2020.10.09-18.16.38:012][915]LogEditor: Attempting to add actor of class 'Leaves_2_C' to level at 176.83,116.73,414.63
